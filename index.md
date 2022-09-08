@@ -2,12 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV here.
+This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_]().
 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
