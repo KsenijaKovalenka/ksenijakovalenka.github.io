@@ -45,6 +45,7 @@ Determining the relaxation times in fluorine as well as water-glycerol solutions
 Developing selection criteria for Z boson events recorded in the ATLAS detector for precise cross-section measurements.
 
 [_Report_](python_projects/lab/ATLAS/Ksenija_Kovalenka_ATLAS_laboratory_report.pdf)
+
 [_Example Code_]()
 
 ### Galactic Hydrogen
@@ -52,6 +53,7 @@ Developing selection criteria for Z boson events recorded in the ATLAS detector 
 Construction of the rotation curve of the Milky Way galaxy using the radiation from the cold hydrogen gas spin transitions.
 
 [_Report_](python_projects/lab/galactic_hydrogen/Ksenija_and_Matthew_galactic_hydrogen_report.pdf)
+
 [_Example Code_]()
 
 ### Cepheid Variables
@@ -59,6 +61,7 @@ Construction of the rotation curve of the Milky Way galaxy using the radiation f
 Distance calculations based on the phase folding of the flux measurements of the periodic Cepheid Variable stars.
 
 [_Report_](python_projects/lab/cepheid_variables/Ksenija_Kovalenka_Cepheid_Variables.pdf)
+
 [_Example Code_]()
 
 
