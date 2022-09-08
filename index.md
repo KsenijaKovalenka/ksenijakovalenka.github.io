@@ -2,7 +2,66 @@
 layout: default
 ---
 
-This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_]().
+This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV_Ksenija_Kovalenka.pdf).
+
+
+## Quantum Neural Networks
+
+description paragraph
+[link]()
+
+## Python Projects
+
+### Neutron Transport
+
+Monte Carlo simulation to model neutrons penetration through different materials.
+[link]()
+
+### Forced Oscillations
+
+Numerical integration methods implementation to study forced and damped oscillations of a pendulum.
+[link]()
+
+### Doppler Spectroscopy
+
+Fitting routine on a 2-dimensional landscape to determine the mass of the exoplanet using transit method.
+[link]()
+
+### Measuring Drop Spreading Law
+
+Fitting routine testing different laws for describing a spread of micro-droplets.
+[link]()
+
+## Selected Laboratory Projects
+
+### Nuclear Magnetic Resonance
+
+Determining the relaxation times in fluorine as well as water-glycerol solutions.
+
+[_Report_](python_projects/lab/nmr/NMR_laboratory_report_Ksenija_Kovalenka.pdf)
+
+### Z boson detection in the ATLAS experiment
+
+Developing selection criteria for Z boson events recorded in the ATLAS detector for precise cross-section measurements.
+
+[_Report_](python_projects/lab/ATLAS/Ksenija_Kovalenka_ATLAS_laboratory_report.pdf)
+[_Example Code_]()
+
+### Galactic Hydrogen
+
+Construction of the rotation curve of the Milky Way galaxy using the radiation from the cold hydrogen gas spin transitions.
+
+[_Report_](python_projects/lab/galactic_hydrogen/Ksenija_and_Matthew_galactic_hydrogen_report.pdf)
+[_Example Code_]()
+
+### Cepheid Variables
+
+Distance calculations based on the phase folding of the flux measurements of the periodic Cepheid Variable stars.
+
+[_Report_](python_projects/lab/cepheid_variables/Ksenija_Kovalenka_Cepheid_Variables.pdf)
+[_Example Code_]()
+
+
 
 [Link to another page](./another-page.html).
 
