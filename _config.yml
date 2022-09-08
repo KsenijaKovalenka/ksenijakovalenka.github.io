@@ -1,0 +1,28 @@
+title: Ksenija Kovalenka
+logo: /assets/img/face.jpg
+email: ksenija.kovalenka11@gmail.com
+description: Why this doesn't change at all?
+favicon: true
+color-scheme: dark
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/KsenijaKovalenka
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: linkedin.com/in/ksenija-kovalenka
+
+navigation:
+  - name: Readme
+    link: ./index.html
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Another Page
+    link: ./another-page.html
