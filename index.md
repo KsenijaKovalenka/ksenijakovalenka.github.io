@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I am **Ksenija Kovalenka**, a final year MPhys student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. I have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My current work on the Master’s project [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./another-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV_Ksenija_Kovalenka.pdf).
+I am **Ksenija Kovalenka**, a final year MPhys student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. I have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My current work on the Master’s project [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./qnn-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV_Ksenija_Kovalenka.pdf).
 
 
 ## Quantum Neural Networks
@@ -13,7 +13,7 @@ The ability to rationally design and control materials with desirable properties
 
 We investigate whether a combination of deep learning and quantum computing approaches can be effective predictors of these properties. This involves training deep learning models on existing datasets and exploring whether they remain good approximations when interpolating and extrapolating from such data. Various models representing quantum lattices with specific orderings will be developed and compared with conventional quantum methods to examine their performance and accuracy.
 
-[_visit project page_](./another-page.html)
+[_visit project page_](./qnn-page.html)
 
 [_view on GitHub_](https://github.com/KsenijaKovalenka/Quantum-Neural-Networks)
 
