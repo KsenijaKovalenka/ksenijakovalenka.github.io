@@ -39,4 +39,4 @@ navigation:
         link: ./index.html#selected-laboratory-projects
         
   - name: QNN
-    link: ./another-page.html
+    link: ./qnn-page.html
