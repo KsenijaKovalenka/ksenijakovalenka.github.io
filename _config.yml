@@ -11,12 +11,22 @@ plugins:
   - jemoji
 
 platforms:
+  - name: CV
+    icon: <i class="fa-light fa-file-user"></i>
+    link: /files/CV_Ksenija_Kovalenka.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/KsenijaKovalenka
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: linkedin.com/in/ksenija-kovalenka
+  - name: Teaching Profile
+    icon: <i class="fa-solid fa-graduation-cap"></i>
+    link: https://www.mytutor.co.uk/tutors/418882/
+  - name: My Art
+    icon: <i class="fa-brands fa-instagram"></i>
+    link: https://www.instagram.com/nesi.redenwar/
+    
 
 navigation:
   - name: Main
@@ -24,5 +34,5 @@ navigation:
     sublist:
       - name: Python
         link: ./index.html#python-projects
-  - name: Another Page
+  - name: QNN
     link: ./another-page.html
