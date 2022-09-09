@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Welcome to another page
+## Quantum Neural Networks
 
 _yay_
 
