@@ -31,11 +31,14 @@ platforms:
 navigation:
   - name: Main
     link: ./index.html
-    sublist:
+    
+    sublist1:
       - name: Python
         link: ./index.html#python-projects
-    sublist:
+        
+    sublist2:
       - name: Laboratory
         link: ./index.html#selected-laboratory-projects
+        
   - name: QNN
     link: ./another-page.html
