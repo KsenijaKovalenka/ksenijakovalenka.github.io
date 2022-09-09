@@ -23,6 +23,6 @@ navigation:
     link: ./index.html
     sublist:
       - name: Image
-        link: ./index.html#small-image
+        link: ./index.html#python-projects
   - name: Another Page
     link: ./another-page.html
