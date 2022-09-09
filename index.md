@@ -13,7 +13,7 @@ The ability to rationally design and control materials with desirable properties
 
 We investigate whether a combination of deep learning and quantum computing approaches can be effective predictors of these properties. This involves training deep learning models on existing datasets and exploring whether they remain good approximations when interpolating and extrapolating from such data. Various models representing quantum lattices with specific orderings will be developed and compared with conventional quantum methods to examine their performance and accuracy.
 
-[_go to project page_](/another-page.html).
+[_visit project page_](/another-page.html).
 
 [_view on GitHub_](https://github.com/KsenijaKovalenka/Quantum-Neural-Networks)
 
