@@ -35,8 +35,6 @@ navigation:
     sublist:
       - name: Python
         link: ./index.html#python-projects
-        
-    sublist:
       - name: Laboratory
         link: ./index.html#selected-laboratory-projects
         
