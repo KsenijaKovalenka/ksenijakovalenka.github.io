@@ -5,7 +5,6 @@ layout: default
 ## Quantum Neural Networks
 
 > I’m going to have fun telling you about this absurdity, because I find it delightful. 
-> 
 > (R. P. Feynman, QED)
 
 Noisy Intermediate Scale Quantum (NISQ) hardware and algorithms are showing the promising development of quantum computation. Quantum machine learning in turn is a fast-accelerating field aspiring to create a powerful data-analysis tool for problems which are unreachable even for modern supercomputers. A lot of these potential problems lay in the field of solid-state physics as systems studied in this field are large collections of quantum object. This project aims to investigate the applications of machine learning and quantum computing for modelling the behaviour of different materials.
