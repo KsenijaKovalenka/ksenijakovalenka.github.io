@@ -8,6 +8,9 @@ This page is a portfolio showcasing my programming projects and other recent wor
 ## Quantum Neural Networks
 
 description paragraph
+
+[_go to project page_](./another-page.html).
+
 [_view on GitHub_]()
 
 ## Python Projects
@@ -15,21 +18,25 @@ description paragraph
 ### Neutron Transport
 
 Monte Carlo simulation to model neutron penetration through different materials.
+
 [_view on GitHub_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/python_projects/programming_courses/neutrons_MC)
 
 ### Forced Oscillations
 
 Numerical integration methods implementation to study forced and damped oscillations of a pendulum.
+
 [_view on GitHub_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/python_projects/programming_courses/oscillations)
 
 ### Doppler Spectroscopy
 
 Fitting routine on a 2-dimensional landscape to determine the mass of the exoplanet using transit method.
+
 [_view on GitHub_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/python_projects/programming_courses/doppler)
 
 ### Measuring Drop Spreading Law
 
 Fitting routine testing different laws for describing a spread of micro-droplets.
+
 [_view on GitHub_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/python_projects/programming_courses/spread_law)
 
 ## Selected Laboratory Projects
@@ -63,7 +70,3 @@ Distance calculations based on the phase folding of the flux measurements of the
 [_Report_](python_projects/lab/cepheid_variables/Ksenija_Kovalenka_Cepheid_Variables.pdf)
 
 [_Example Code_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/python_projects/lab/cepheid_variables)
-
-
-
-[Link to another page](./another-page.html).
