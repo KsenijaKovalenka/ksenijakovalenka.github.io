@@ -32,11 +32,11 @@ navigation:
   - name: Main
     link: ./index.html
     
-    sublist1:
+    sublist:
       - name: Python
         link: ./index.html#python-projects
         
-    sublist2:
+    sublist:
       - name: Laboratory
         link: ./index.html#selected-laboratory-projects
         
