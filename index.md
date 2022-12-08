@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I am **Ksenija Kovalenka**, a final year MPhys student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. I have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My current work on the Master’s project [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./qnn-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV_Ksenija_Kovalenka.pdf).
+I am **Ksenija Kovalenka**, a final year MPhys student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. I have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My current work on the Master’s project [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./qnn-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV_latest.pdf).
 
 
 ## Quantum Neural Networks
@@ -69,12 +69,9 @@ Hydrogen 1s ground state energy undergoes hyperfine splitting due to the interac
 
 [_Report_](python_projects/lab/galactic_hydrogen/Ksenija_and_Matthew_galactic_hydrogen_report.pdf)
 
-[_Example Code_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/python_projects/lab/galactic_hydrogen)
-
 ### Cepheid Variables
 
 A distance to the NGC 4258 galaxy was determined by looking at Hubble Space Telescope observations of twelve Cepheid variable stars in the outer parts of the galaxy. Phase folding computational technique was used to construct the light curves and determine the luminosity of stars. Comparing absolute and observed magnitudes allowed to determine the distance to each Cepheid and averaged out gave a value of the distance to the galaxy.
 
 [_Report_](python_projects/lab/cepheid_variables/Ksenija_Kovalenka_Cepheid_Variables.pdf)
 
-[_Example Code_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/python_projects/lab/cepheid_variables)
