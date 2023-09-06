@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I am **Ksenija Kovalenka**, a PhD student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. I have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My current work on [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./qnn-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV_latest.pdf).
+I am **Ksenija Kovalenka**, a PhD student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. I have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My current work on [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./qnn-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV.pdf).
 
 
 ## Quantum Lattices
@@ -21,6 +21,10 @@ We investigate whether a combination of deep learning and quantum computing appr
 
 The created program allows one to construct circuits with up to 6 quantum bits (qubits) and apply the selection of single-qubit and two-qubit gates. An example circuit is included, which demonstrates all the basic features of the program. The available gates construct the complete basis and hence allow in principle any quantum computation within the qubit limit. Amongst other attributes, the source code is featuring a custom matrix class for gate representation, utilising smart pointers for clear ownership and safe memory management.
 
+[_view on GitHub_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/c_projects)
+
+[_Report_](c_projects/report/quantum_circuit_simulator_report.pdf)
+
 ## Python Projects
 
 ### Neutron Transport
@@ -31,7 +35,7 @@ This project aims to investigate particle transport, specifically, penetration o
 
 ### Forced Oscillations
 
-The aim of this project is to investigate how different numerical integration methods apply to a physical systems of forced harmonic oscillator. The equation of motion is $mx’’(t)+bx’(t)+kx(t) = F(t)$, where x is position and it's corresponding derivatives, F is the external force on the system, m is mass and k, b are spring and damping constants respectively. This differential equation can be solved analytically for specific functional forms $F(t)$, but not for all. Therefore, four different integration techniques are tested:
+The aim of this project is to investigate how different numerical integration methods apply to a physical systems of forced harmonic oscillator. The equation of motion can be solved analytically for specific functional forms, but not for all. Therefore, four different integration techniques are tested:
 1. Euler 
 2. Improved Euler 
 3. Verlet 
