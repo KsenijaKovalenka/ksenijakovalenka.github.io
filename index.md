@@ -4,10 +4,10 @@ layout: default
 
 ## About
 
-I am **Ksenija Kovalenka**, a final year MPhys student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. I have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My current work on the Master’s project [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./qnn-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV_latest.pdf).
+I am **Ksenija Kovalenka**, a PhD student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. I have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My current work on [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./qnn-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV_latest.pdf).
 
 
-## Quantum Neural Networks
+## Quantum Lattices
 
 The ability to rationally design and control materials with desirable properties has been a long-standing quest in condensed matter physics. Achieving this goal requires a deep understanding of the intricacies of quantum lattices and high-throughput methods to identify and characterise collective patterns emerging from such systems.
 
@@ -15,7 +15,11 @@ We investigate whether a combination of deep learning and quantum computing appr
 
 [_visit project page_](./qnn-page.html)
 
-[_view on GitHub_](https://github.com/KsenijaKovalenka/Quantum-Neural-Networks)
+## C++ Projects
+
+### Quantum Circuit Simulator
+
+The created program allows one to construct circuits with up to 6 quantum bits (qubits) and apply the selection of single-qubit and two-qubit gates. An example circuit is included, which demonstrates all the basic features of the program. The available gates construct the complete basis and hence allow in principle any quantum computation within the qubit limit. Amongst other attributes, the source code is featuring a custom matrix class for gate representation, utilising smart pointers for clear ownership and safe memory management.
 
 ## Python Projects
 
@@ -43,7 +47,7 @@ Fitting routine on a 2-dimensional landscape to determine the mass of the exopla
 
 ### Measuring Drop Spreading Law
 
-The task of project was to analyse experimental data from the spreading of picolitre droplets on a flat substrate to determine the corresponding spreading law by performing a fit and finding the best parameters for the model. A detailed analysis and comparison of the different models was performed. A spreading law is a relationship between the speed of the contact line and the contact angle.
+The task of the project was to analyse experimental data from the spreading of picolitre droplets on a flat substrate to determine the corresponding spreading law by performing a fit and finding the best parameters for the model. A detailed analysis and comparison of the different models was performed. A spreading law is a relationship between the speed of the contact line and the contact angle.
 
 [_view on GitHub_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/python_projects/programming_courses/spread_law)
 
