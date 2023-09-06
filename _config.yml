@@ -34,7 +34,7 @@ navigation:
     
     sublist:
       - name: C++
-        link: ./index.html#c++-projects
+        link: ./index.html#quantum-circuit-simulator
       - name: Python
         link: ./index.html#python-projects
       - name: Laboratory
