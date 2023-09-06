@@ -33,6 +33,8 @@ navigation:
     link: ./index.html
     
     sublist:
+      - name: C++
+        link: ./index.html#c++-projects
       - name: Python
         link: ./index.html#python-projects
       - name: Laboratory
