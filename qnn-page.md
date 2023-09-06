@@ -22,7 +22,7 @@ Neural networks are an attractive tool to navigate the large domain of propertie
 
 Topology unites spaces into sets that preserve some qualities – called topological invariants. In Euclidian space, this means that two spaces have the same topology if we can continuously deform one to get the other. Stretching and squishing preserve the topology, but not twisting, tearing or poking holes!
 
-![check.pdf](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/files/12539794/check.pdf)
+![check-1](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/assets/83072550/f390b5a5-1c37-447b-b96c-00682696fdff)
 
 
 ### Wavefunction Topology
