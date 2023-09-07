@@ -83,3 +83,4 @@ A distance to the NGC 4258 galaxy was determined by looking at Hubble Space Tele
 
 [_Report_](python_projects/lab/cepheid_variables/Ksenija_Kovalenka_Cepheid_Variables.pdf)
 
+$$E=mc^2$$
