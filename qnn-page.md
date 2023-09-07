@@ -37,7 +37,7 @@ BiTeI is a crystal undergoing a phase transition from a trivial to a topological
 
 ![p3-1](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/assets/83072550/069f3e0b-2d96-4ca3-8b00-dc13f4633b0a)
 
-When bands are crossed, the band inversion occurs, meaning that the states are mixing, and the topological invariant of the system changes. We see the jump of electron states corresponding to Bismuth’s outer shell states from conduction to valence band, effectively making a ‘hole’ in the k-space of Tellurium and Iodine electrons.
+When bands are crossed, the band inversion occurs, meaning that the states are mixing, and the topological invariant of the system changes. We see the jump of electron states corresponding to Bismuth’s outer shell states from conduction to valence band, effectively making a ‘hole’ in the k-space of Tellurium and Iodine electrons. This phenomenon inspired one of my artworks, which can be accessed [_here_](./art.html).
 
 ### Surface States
 
