@@ -13,7 +13,7 @@ plugins:
 platforms:
   - name: CV
     icon: <i class="fa-regular fa-file"></i>
-    link: /files/CV_latest.pdf
+    link: /files/CV.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/KsenijaKovalenka
