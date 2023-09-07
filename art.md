@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Impact
 _Acrylics on canvas board (30 cm x 50 cm)_
 
