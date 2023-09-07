@@ -35,7 +35,7 @@ This project aims to investigate particle transport, specifically, penetration o
 
 ### Forced Oscillations
 
-The aim of this project is to investigate how different numerical integration methods apply to a physical systems of forced harmonic oscillator. The equation of motion can be solved analytically for specific functional forms, but not for all. Therefore, four different integration techniques are tested:
+The aim of this project was to investigate how different numerical integration methods apply to a physical systems of forced harmonic oscillator. The equation of motion is $mx’’(t)+bx’(t)+kx(t) = F(t)$, where x is position and it's corresponding derivatives, F is the external force on the system, m is mass and k, b are spring and damping constants respectively. This differential equation can be solved analytically for specific functional forms $F(t)$, but not for all. Therefore, four different integration techniques are tested:
 1. Euler 
 2. Improved Euler 
 3. Verlet 
@@ -82,5 +82,3 @@ Hydrogen 1s ground state energy undergoes hyperfine splitting due to the interac
 A distance to the NGC 4258 galaxy was determined by looking at Hubble Space Telescope observations of twelve Cepheid variable stars in the outer parts of the galaxy. Phase folding computational technique was used to construct the light curves and determine the luminosity of stars. Comparing absolute and observed magnitudes allowed to determine the distance to each Cepheid and averaged out gave a value of the distance to the galaxy.
 
 [_Report_](python_projects/lab/cepheid_variables/Ksenija_Kovalenka_Cepheid_Variables.pdf)
-
-$$E=mc^2$$
