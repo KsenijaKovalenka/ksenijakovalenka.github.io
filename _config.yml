@@ -42,6 +42,3 @@ navigation:
         
   - name: QNN
     link: ./qnn-page.html
-
-   - name: Art
-    link: ./art.html
