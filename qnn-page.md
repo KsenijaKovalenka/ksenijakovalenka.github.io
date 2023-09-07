@@ -22,24 +22,29 @@ Neural networks are an attractive tool to navigate the large domain of propertie
 
 Topology unites spaces into sets that preserve some qualities – called topological invariants. In Euclidian space, this means that two spaces have the same topology if we can continuously deform one to get the other. Stretching and squishing preserve the topology, but not twisting, tearing or poking holes!
 
-![check-1](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/assets/83072550/bd34715d-d1b3-413c-b747-7dc03eb3bb2d)
-
+![p1-1](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/assets/83072550/f4727759-1b8b-4231-87c1-68b7bbe10644)
 
 ### Wavefunction Topology
 
 Non-trivial topology of momentum space of a Hamiltonian (in general, any parameter R(t)-space) leads to acquiring a geometric phase by the eigenstates when the system undergoes adiabatic transformations in a closed loop. The geometric phase is a quantised topological invariant. In 3D, the geometric phase is calculated using a closed surface integral of the Berry curvature, which is analogous to a magnetic field and reflects the ‘shape’ of the Hamiltonian (or its eigenvectors).
 
+![p2-1](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/assets/83072550/ef8ad456-466e-479b-9958-f178eb26b2fd)
+
 ### Phase Transition in BiTeI
 
 BiTeI is a crystal undergoing a phase transition from a trivial to a topological insulator when subjected to hydrostatic pressure. Strong spin-orbit coupling in BiTeI leads to translational symmetry breaking, allowing non-trivial topology.
 
-picture
+
+![p3-1](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/assets/83072550/069f3e0b-2d96-4ca3-8b00-dc13f4633b0a)
 
 When bands are crossed, the band inversion occurs, meaning that the states are mixing, and the topological invariant of the system changes. We see the jump of electron states corresponding to Bismuth’s outer shell states from conduction to valence band, effectively making a ‘hole’ in the k-space of Tellurium and Iodine electrons.
 
 ### Surface States
 
 If the vacuum has a trivial topology and a crystal has a non-trivial topology, a transition between the two requires crossing the energy bands at the interface – edge of the crystal. This leads to the formation of conducting edge states in the material. This emerging property is protected from perturbations as small changes do not affect the topology.
+
+![p4-1](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/assets/83072550/473e7249-f11c-4171-9c1e-d7f9453e93c2)
+
 
 ### Learning the Transition
 
