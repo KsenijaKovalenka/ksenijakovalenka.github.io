@@ -4,6 +4,7 @@ email: ksenija.kovalenka11@gmail.com
 description: Physics PhD student at the University of Manchester
 favicon: true
 color-scheme: dark
+markdown: kramdown
 
 plugins:
   - jekyll-sitemap
@@ -44,6 +45,3 @@ navigation:
     link: ./qnn-page.html
   - name: Art
     link: ./art.html    
-
-  # Build settings
-  markdown: kramdown
