@@ -70,3 +70,7 @@ The final element.
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+equations 
+inline $F(x)$
+and separate line equations $$F(x)$$ for bigger ones
