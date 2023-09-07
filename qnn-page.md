@@ -53,4 +53,4 @@ A couple of different neural network architectures were successful in predicting
 
 [back](./)
 
-$$E=mc^2$$
+$E=mc^2$
