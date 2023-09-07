@@ -44,3 +44,6 @@ navigation:
     link: ./qnn-page.html
   - name: Art
     link: ./art.html    
+
+  # Build settings
+  markdown: kramdown
