@@ -52,5 +52,3 @@ If the vacuum has a trivial topology and a crystal has a non-trivial topology, a
 A couple of different neural network architectures were successful in predicting the quantum state of BiTeI when given a set of hoppings from the corresponding Hamiltonian. You can enjoy the process of binary classification of topological states performed by the layer of just 2 qubits [_here_](https://youtu.be/c4cicro8FFQ).
 
 [back](./)
-
-$$E=mc^2$$
