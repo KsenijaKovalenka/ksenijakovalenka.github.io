@@ -7,7 +7,7 @@
 | Code List    |                   | 
 |:-------------|:------------------|
 | Large Matrix Diagonalisation | [_view on GitHub_](./ksenija)|
-| LCM Calculation | [_view on GitHub_](./cherm marker) |
+| LCM Calculation | [_view on GitHub_](./chern marker) |
 | Multifractality Analysis | [_view on GitHub_](./multifractals) | 
 
 Topology has shown to be an important tool in classifying solid state systems with peculiar behaviour. 
