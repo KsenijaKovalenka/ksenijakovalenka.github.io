@@ -12,8 +12,8 @@ topological insulator to Anderson localisation (insulating) state. This can be s
 [2]. Similar behaviour is observed for the BHZ model. We also computed a sum of LCM over the edges for a range of masses and disorder strength to 
 produce a phase diagram on the right.
 
-[fractals1.pdf](https://github.com/user-attachments/files/17559883/fractals1.pdf)
+![fractals1.pdf](https://github.com/user-attachments/files/17559883/fractals1.pdf)
 
-[fractals2.pdf](https://github.com/user-attachments/files/17559889/fractals2.pdf)
+![fractals2.pdf](https://github.com/user-attachments/files/17559889/fractals2.pdf)
 
-[fractals3.pdf](https://github.com/user-attachments/files/17559897/fractals3.pdf)
+![fractals3.pdf](https://github.com/user-attachments/files/17559897/fractals3.pdf)
