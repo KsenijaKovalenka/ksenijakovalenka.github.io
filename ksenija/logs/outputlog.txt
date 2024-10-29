@@ -1,0 +1,23 @@
+
+ Ritz values (Real, Imag) and direct residuals
+ ---------------------------------------------
+               Col   1       Col   2       Col   3
+  Row   1:    1.90406D-02  -2.77684D-18   1.37639D-10
+  Row   2:    3.36773D-02   3.56353D-18   9.51358D-10
+  Row   3:    4.26985D-02   9.08110D-18   3.08000D-08
+  Row   4:    3.66395D-03   4.23133D-18   3.13400D-07
+  
+  
+ _NDRV1
+ ====== 
+  
+  Size of the matrix is         5000
+  The number of processors is            5
+  The number of Ritz values requested is            4
+  The number of Arnoldi vectors generated (NCV) is           20
+  What portion of the spectrum: SM
+  The number of converged Ritz values is            4
+  The number of Implicit Arnoldi update iterations taken is         3510
+  The number of OP*x is        56156
+  The convergence criterion is   1.000000047497451E-003
+  

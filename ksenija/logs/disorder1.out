@@ -1,0 +1,26 @@
+ myid:           2 nloc:        1000
+ myid:           4 nloc:        1000
+ myid:           3 nloc:        1000
+           2 starting znAupd
+           4 starting znAupd
+           3 starting znAupd
+ myid:           0 nloc:        1000
+ myid:           1 nloc:        1000
+           1 starting znAupd
+           0 starting znAupd
+ time:  0.109177849492212       4.507792541602005E-002  4.058804407638204E-002
+           0 finished znAupd
+           1 finished znAupd
+           2 finished znAupd
+           3 finished znAupd
+           4 finished znAupd
+           0 finished znEupd
+           1 finished znEupd
+           2 finished znEupd
+           3 finished znEupd
+           4 finished znEupd
+ Execution time:    11.79403      seconds
+ Execution time:    11.79620      seconds
+ Execution time:    11.79557      seconds
+ Execution time:    11.70823      seconds
+ Execution time:    11.80294      seconds
