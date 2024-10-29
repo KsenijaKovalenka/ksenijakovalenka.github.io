@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I am **Ksenija Kovalenka**, a PhD student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. I have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My current work on [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./qnn-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also access my CV [_here_](files/CV2.pdf).
+I am **Ksenija Kovalenka**, a PhD student at **the University of Manchester**. Throughout my studies, I have developed a strong interest in quantum theory as something completely unfamiliar to my intuition and therefore extremely compelling. My current work focuses on the relation between [topology and disorder](./fractals.html) in two-dimensional lattices. I am exploring many-body properties of the multi-fractal states of electronic systems at the critical point of the phase transition. I also have a passion for quantum computation and machine learning, which by the nature of their novelty and intrinsic distinctiveness from other common computation methods are opening unexpected approaches to modern problems. My Master's work on [_'Modelling Quantum Lattices Using a Combination of Deep Learning and Quantum Computing Methods'_](./qnn-page.html) provides me with great experience and skillset allowing me to progress effectively in my fields of interest. This page is a portfolio showcasing my programming projects and other recent work. You can also have a look at the latest [ hackathon ](https://devpost.com/software/space-trash) project I completed with the computer science society at the University of Manchester, or access my CV [_here_](files/CV2.pdf).
 
 
 ## Quantum Lattices
@@ -56,6 +56,12 @@ The task of the project was to analyse experimental data from the spreading of p
 [_view on GitHub_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/python_projects/programming_courses/spread_law)
 
 ## Selected Laboratory Projects
+
+### Layer-by-Layer Assembly of van der Waals Heterostructures
+
+Made a combined heterostructure of $WS\textsubscript{2}$ and $InSe$ encapsulated in hBN, using the cantilever-assisted transfer technique. Performed characterisation with Raman spectroscopy and Atomic Force Microscopy (AFM).
+
+![romanlab_page-0001](https://github.com/user-attachments/assets/71171d3f-6238-4d16-a991-88529f040c03)
 
 ### Nuclear Magnetic Resonance
 
