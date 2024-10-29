@@ -27,7 +27,7 @@ Topology unites spaces into sets that preserve some qualities – called topolog
 
 ### Wavefunction Topology
 
-Non-trivial topology of momentum space of a Hamiltonian (in general, any parameter R(t)-space) leads to acquiring a geometric phase by the eigenstates when the system undergoes adiabatic transformations in a closed loop. The geometric phase is a quantised topological invariant. In 3D, the geometric phase is calculated using a closed surface integral of the Berry curvature, which is analogous to a magnetic field and reflects the ‘shape’ of the Hamiltonian (or its eigenvectors).
+Non-trivial topology of momentum space of a Hamiltonian (in general, any parameter $R(t)$-space) leads to acquiring a geometric phase by the eigenstates when the system undergoes adiabatic transformations in a closed loop. The geometric phase is a quantised topological invariant. In 3D, the geometric phase is calculated using a closed surface integral of the Berry curvature, which is analogous to a magnetic field and reflects the ‘shape’ of the Hamiltonian (or its eigenvectors).
 
 ![p2-1](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/assets/83072550/ef8ad456-466e-479b-9958-f178eb26b2fd)
 
