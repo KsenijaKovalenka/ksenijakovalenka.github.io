@@ -41,6 +41,8 @@ navigation:
       - name: Laboratory
         link: ./index.html#selected-laboratory-projects
         
+  - name: disorder
+    link: ./fracltals.html
   - name: QNN
     link: ./qnn-page.html
   - name: Art
