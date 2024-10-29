@@ -26,12 +26,12 @@ disorder.
 For a range of mass parameters, increasing disorder strength can lead to the series of phase transitions from trivial insulator to 
 topological insulator to Anderson localisation (insulating) state. This can be seen from the LCM calculation for a finite slab of the material below. [ (package used) ](https://github.com/roberta-favata/spinv?tab=%20readme-ov-file,%20accessed:%202023-04-10)
 
-![fractals2_page-0001](https://github.com/user-attachments/assets/9fbfe3c0-0758-45a4-aacc-7f9153677b43)
+![fractals3_page-0001](https://github.com/user-attachments/assets/1e000159-05c2-4b0a-a4d7-c6db8dec72f3)
 
 A sum of LCM over the edges for a range of masses and disorder strength was computed to 
 produce a phase diagram below.
 
-![fractals3_page-0001](https://github.com/user-attachments/assets/1e000159-05c2-4b0a-a4d7-c6db8dec72f3)
+![fractals2_page-0001](https://github.com/user-attachments/assets/9fbfe3c0-0758-45a4-aacc-7f9153677b43)
 
 ### Multifractality
 
