@@ -1,3 +1,8 @@
+---
+layout: default
+usemathjax: true
+---
+
 ## Disorder-Driven Topological Insulator Phases in Two-Dimensional Materials
 
 > Beautiful, damn hard, increasingly useful. That’s fractals. 
@@ -38,3 +43,5 @@ produce a phase diagram below.
 There is a critical point in the Andeson localisation phase transition as the disorder strength is increased in the system. At this point, the wavefunction of the electrons at the Fermi level exhibits [multifractal scaling properties](https://en.wikipedia.org/wiki/Multifractal_system), which can be shown by calculating its dimensionality spectrum as shown below.
 
 ![fractals4_page-0001](https://github.com/user-attachments/assets/4c05193f-2e77-4521-af06-a0e461d97947)
+
+[back](./)
