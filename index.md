@@ -59,7 +59,7 @@ The task of the project was to analyse experimental data from the spreading of p
 
 ### Layer-by-Layer Assembly of van der Waals Heterostructures
 
-Made a combined heterostructure of $WS\textsubscript{2}$ and $InSe$ encapsulated in hBN, using the cantilever-assisted transfer technique. Performed characterisation with Raman spectroscopy and Atomic Force Microscopy (AFM).
+Made a combined heterostructure of $WS_{2}$ and $InSe$ encapsulated in hBN, using the cantilever-assisted transfer technique. Performed characterisation with Raman spectroscopy and Atomic Force Microscopy (AFM).
 
 ![romanlab_page-0001](https://github.com/user-attachments/assets/71171d3f-6238-4d16-a991-88529f040c03)
 
