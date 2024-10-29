@@ -11,7 +11,7 @@ usemathjax: true
 
 | Code List    |                   | 
 |:-------------|:------------------|
-| Large Matrix Diagonalisation | [_view on GitHub_](./ksenija)|
+| Large Matrix Diagonalisation | [_view on GitHub_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/ksenija)|
 | LCM Calculation | [_view on GitHub_](https://github.com/KsenijaKovalenka/ksenijakovalenka.github.io/tree/main/chern%20marker) |
 | Multifractality Analysis | [_view on GitHub_](./multifractals) | 
 
